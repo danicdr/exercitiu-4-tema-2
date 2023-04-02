@@ -26,5 +26,6 @@ namespace MyFirstProgram2._1
                 Console.WriteLine("Nu e palindrom");
             }
         }
-    }
+    }//Scrieti un program care va determina daca un numar este sau nu palindrom
+
 }
